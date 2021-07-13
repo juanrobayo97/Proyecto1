@@ -44,4 +44,4 @@ def panprimo (n):
             return False
     return True
 
-print(panprimo(1234567809687831))
+print(panprimo(1234567809687833242341))
